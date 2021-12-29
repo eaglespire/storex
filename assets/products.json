@@ -1,0 +1,116 @@
+{
+  "items":[
+    {
+      "id": 1,
+      "title": "Dettol Anti-Bacterial Skin Jelly160g",
+      "description": "Use Dettol Anti-Bacterial Skin Jelly for maximum protection,healthy and smooth skin everyday.",
+      "image": "assets/img/products/product-1.jpg",
+      "price": 5540
+    },
+    {
+      "id": 2,
+      "title": "Ladies Handbag For Women",
+      "description": "Quality and BGM made available female 2020 Pure Leather large capacity handbag",
+      "image": "assets/img/products/product-2.jpg",
+      "price": 5598
+    },
+    {
+      "id": 3,
+      "title": "Ladies Casual Slippers-White",
+      "description": "Use Dettol Anti-Bacterial Skin Jelly for maximum protection,healthy and smooth skin everyday.",
+      "image": "assets/img/products/product-3.jpg",
+      "price": 1500
+    },
+    {
+      "id": 4,
+      "title": "Sexy men suede",
+      "description": "Use Dettol Anti-Bacterial Skin Jelly for maximum protection,healthy and smooth skin everyday.",
+      "image": "assets/img/products/product-4.jpg",
+      "price": 13800
+    },
+    {
+      "id": 5,
+      "title": "Ultra comfortable slippers",
+      "description": "Use Dettol Anti-Bacterial Skin Jelly for maximum protection,healthy and smooth skin everyday.",
+      "image": "assets/img/products/product-5.jpg",
+      "price": 2000
+    },
+    {
+      "id": 6,
+      "title": "Orijin Tigernut and Ginger",
+      "description": "Use Dettol Anti-Bacterial Skin Jelly for maximum protection,healthy and smooth skin everyday.",
+      "image": "assets/img/products/product-6.jpg",
+      "price": 3500
+    },
+    {
+      "id": 7,
+      "title": "Smirnoff Ice",
+      "description": "Use Dettol Anti-Bacterial Skin Jelly for maximum protection,healthy and smooth skin everyday.",
+      "image": "assets/img/products/product-7.jpg",
+      "price": 7000
+    },
+    {
+      "id": 8,
+      "title": "Guiness Smooth 33cl",
+      "description": "Use Dettol Anti-Bacterial Skin Jelly for maximum protection,healthy and smooth skin everyday.",
+      "image": "assets/img/products/product-8.jpg",
+      "price": 1200
+    },
+    {
+      "id": 9,
+      "title": "Guiness foreign extra",
+      "description": "Use Dettol Anti-Bacterial Skin Jelly for maximum protection,healthy and smooth skin everyday.",
+      "image": "assets/img/products/product-9.jpg",
+      "price": 2550
+    },
+    {
+      "id": 10,
+      "title": "Smirnoff ice double black",
+      "description": "Use Dettol Anti-Bacterial Skin Jelly for maximum protection,healthy and smooth skin everyday.",
+      "image": "assets/img/products/man-1.jpg",
+      "price": 10000
+    },
+    {
+      "id": 11,
+      "title": "LG Aud 457 Home Theatre",
+      "description": "The Home Theatre 457 LG with 330W of power consists of 4 tall boys, 5.1 Ch and a Bass Blast which emits sound waves of high definitions in different directions.",
+      "image": "assets/img/products/man-4.jpg",
+      "price": 64800
+    },
+    {
+      "id": 12,
+      "title": "LG X-Boom CJ45 Home Theatre",
+      "description": "The Home Theatre 457 LG with 330W of power consists of 4 tall boys, 5.1 Ch and a Bass Blast which emits sound waves of high definitions in different directions.",
+      "image": "assets/img/products/women-3.jpg",
+      "price": 72000
+    },
+    {
+      "id": 13,
+      "title": "LG Bluetooth Home Theatre",
+      "description": "The Home Theatre 457 LG with 330W of power consists of 4 tall boys, 5.1 Ch and a Bass Blast which emits sound waves of high definitions in different directions.",
+      "image": "assets/img/products/women-1.jpg",
+      "price": 38900
+    },
+    {
+      "id": 14,
+      "title": "LG 480 W Hifi Audio System",
+      "description": "The Home Theatre 457 LG with 330W of power consists of 4 tall boys, 5.1 Ch and a Bass Blast which emits sound waves of high definitions in different directions.",
+      "image": "assets/img/products/women-2.jpg",
+      "price": 78000
+    },
+    {
+      "id": 15,
+      "title": "LGAUD 756 Home Theatre",
+      "description": "The Home Theatre 457 LG with 330W of power consists of 4 tall boys, 5.1 Ch and a Bass Blast which emits sound waves of high definitions in different directions.",
+      "image": "assets/img/products/women-4.jpg",
+      "price": 64999
+    },
+    {
+      "id": 16,
+      "title": "LG AUD 675 LHD Home Theatre",
+      "description": "The Home Theatre 457 LG with 330W of power consists of 4 tall boys, 5.1 Ch and a Bass Blast which emits sound waves of high definitions in different directions.",
+      "image": "assets/img/products/man-3.jpg",
+      "price": 100000
+    }
+  ]
+}
